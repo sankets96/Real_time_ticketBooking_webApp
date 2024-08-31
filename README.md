@@ -28,15 +28,3 @@ Secure Authentication: Ensures that users' personal information and bookings are
 Responsive Design: The app is designed to work seamlessly across different devices, providing an optimal experience on both desktop and mobile platforms.
 This project aims to streamline the process of booking swimming sessions, ensuring a smooth and efficient experience for users while maintaining high standards of service and security.
 
-
-
-
-
-
-
-
-
-
-Tech stack for app?
-
-Next development step?
