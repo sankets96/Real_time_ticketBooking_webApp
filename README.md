@@ -32,3 +32,50 @@ Secure Authentication: Ensures that users' personal information and bookings are
 Responsive Design: The app is designed to work seamlessly across different devices, providing an optimal experience on both desktop and mobile platforms.
 This project aims to streamline the process of booking swimming sessions, ensuring a smooth and efficient experience for users while maintaining high standards of service and security.
 
+
+#pages:
+1)Home
+![home](https://github.com/sankets96/Real_time_ticketBooking_webApp/blob/master/screenshot/home.png)
+
+
+2)Signup:
+![signup](https://github.com/sankets96/Real_time_ticketBooking_webApp/blob/master/screenshot/signup.png)
+
+
+3)Login
+![login](https://github.com/sankets96/Real_time_ticketBooking_webApp/blob/master/screenshot/login.png)
+
+
+4)Dashboard:
+![dashbaord](https://github.com/sankets96/Real_time_ticketBooking_webApp/blob/master/screenshot/dashbaord.png)
+
+
+5)Booking Form:
+![form](https://github.com/sankets96/Real_time_ticketBooking_webApp/blob/master/screenshot/ticketbooking.png)
+
+
+6)Ticket Preview
+![preview](https://github.com/sankets96/Real_time_ticketBooking_webApp/blob/master/screenshot/ticketpreview.png)
+
+
+7)Checkout
+![chekout](https://github.com/sankets96/Real_time_ticketBooking_webApp/blob/master/screenshot/checkout.png)
+
+
+8)Find Ticket
+![findticket](https://github.com/sankets96/Real_time_ticketBooking_webApp/blob/master/screenshot/findticket.png)
+
+
+9)Ticket:
+![ticket](https://github.com/sankets96/Real_time_ticketBooking_webApp/blob/master/screenshot/ticket.png)
+
+
+10)About:
+![about](https://github.com/sankets96/Real_time_ticketBooking_webApp/blob/master/screenshot/about.png)
+
+
+11)Support :
+![support](https://github.com/sankets96/Real_time_ticketBooking_webApp/blob/master/screenshot/support.png)
+
+
+
